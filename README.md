@@ -2,13 +2,13 @@
 This is a full-stack web application for managing pizza restaurants. The application allows users to view a list of restaurants, see details of a specific restaurant, view available pizzas, and create new restaurant-pizza associations.
 
 ## Technologies Used
-- Frontend:
+1. Frontend:
 
  - React
  - Axios for API requests
  - react-router-dom for routing
- 
-- Backend:
+
+2. Backend:
 
  - Flask (Python)
  - Flask-RESTful for creating RESTful APIs
