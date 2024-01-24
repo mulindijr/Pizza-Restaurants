@@ -1,0 +1,35 @@
+.restaurants h1{
+    text-align: center;
+    font-size: 30px;
+}
+
+.restaurants ul{
+    display: flex;
+    align-items: center; 
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.restaurants ul li {
+    margin-right: 10px;
+    list-style-type: none;
+    margin-bottom: 10px;
+  }
+  
+  li button {
+    border: 1px solid #333;
+    padding: 15px 20px;
+    width: 300px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  li button:hover {
+    background-color: #ddd;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
