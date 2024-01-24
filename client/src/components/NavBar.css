@@ -1,0 +1,16 @@
+nav {
+    background-color: gray;
+    padding: 5px;
+    display: flex;
+    justify-content: flex-end; 
+}
+  
+nav ul {
+    list-style-type: none;
+    display: flex;
+}
+  
+nav li {
+    margin-right: 50px;
+    font-size: 20px;
+}
