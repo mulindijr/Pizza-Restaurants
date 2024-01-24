@@ -1,0 +1,54 @@
+.form-data {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    border: 1px solid;
+    padding: 20px;
+    border-radius: 10px;
+}
+  
+label {
+  font-weight: bold;
+}
+
+.form-data input {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.form-data button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.form-data button:hover {
+  background-color: #45a049;
+}
+  
+.form-response{
+    display: flex;
+    gap: 150px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.create-title{
+    text-align: center;
+    font-size: 30px;
+}
+ 
+.created-pizza-details {
+  margin-top: 20px;
+}
+
+.created-pizza-details h2 {
+  color: #4caf50;
+}
+  
+  
